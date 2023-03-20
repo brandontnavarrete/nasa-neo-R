@@ -2,7 +2,7 @@
 
 # The Great Space Race to Save the Earth
 
-![Space](local_image.png)
+
 
 A Near Earth Object Classification project by Brandon Navarrete
 
